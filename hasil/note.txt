@@ -1,0 +1,5 @@
+Nama: Helmi Salsabila
+NPM: 1194018 % 8 = 2.
+n = 1
+Dimana n adalah dijit NPM kedua dari belakang. 
+Maka, segitiga sama sisi ada 1 buah
