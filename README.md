@@ -1,4 +1,9 @@
 # Latihan_Pyshp_Shapefile
+CARA MEMBACA FILE SHP DENGAN PYSHP PYTHON MENGGUNAKAN GITBASH
+![1](https://user-images.githubusercontent.com/61817589/141968066-5bf9351f-4831-4fae-b68e-d605b1e4754f.png)
+![2](https://user-images.githubusercontent.com/61817589/141968084-e711757e-c812-42a4-8d5a-4c0c083ec8da.png)
+![3](https://user-images.githubusercontent.com/61817589/141968095-69929973-2ec9-4c4c-ac78-79e0ac2efbce.png)
+
 Latihan_Pyshp_Shapefile - SIG 2021 - HelmiSalsabila9
 
 1. ![hasil1](https://user-images.githubusercontent.com/61817589/139829510-ea644cb0-6fbd-4722-9fc2-26d929b72947.png)
